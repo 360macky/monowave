@@ -1,0 +1,21 @@
+{
+    "name": "monowave",
+    "displayName": "monowave",
+    "description": "A light theme perfect for summer at noon",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monowave",
+                "uiTheme": "vs",
+                "path": "./themes/Monowave-color-theme.json"
+            }
+        ]
+    }
+}
