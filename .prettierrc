@@ -1,0 +1,13 @@
+{
+    "arrowParens": "always",
+    "bracketSameLine": false,
+    "bracketSpacing": true,
+    "embeddedLanguageFormatting": "auto",
+    "endOfLine": "lf",
+    "quoteProps": "as-needed",
+    "trailingComma": "es5",
+    "semi": true,
+    "proseWrap": "preserve",
+    "useTabs": false,
+    "rangeStart": 0
+}
