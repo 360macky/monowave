@@ -3,7 +3,7 @@
     "displayName": "Monowave Theme",
     "description": "A light theme perfect for summer at noon",
     "icon": ".github/logo_128x128.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "MarceloArias",
     "engines": {
         "vscode": "^1.64.0"
