@@ -2,6 +2,7 @@
     "name": "monowave",
     "displayName": "Monowave Theme",
     "description": "A light theme perfect for summer at noon",
+    "icon": ".github/logo_128x128.png",
     "version": "0.0.1",
     "publisher": "MarceloArias",
     "engines": {
