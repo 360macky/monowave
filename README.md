@@ -13,7 +13,19 @@
     🌊 Code comfortably at noon 🌅
 </p>
 
-⛱ Monowave is a theme made for people who work in really high light environments. It contains a wonderful variation of the _Monokai_ theme, with an ideal contrast so that each letter of code remains readable to your eyes:
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=MarceloArias.monowave&ssr=false" target="_blank">
+    <img
+      src="https://i.imgur.com/v48Fde3.png"
+      align="center"
+      width="250"
+      alt="Install Monowave theme"
+      title="Install Monowave theme"
+    />
+  </a>
+</p>
+
+⛱ <a href="https://marketplace.visualstudio.com/items?itemName=MarceloArias.monowave&ssr=false" target="_blank">Monowave</a> is a theme made for people who work in really high light environments. It contains a wonderful variation of the _Monokai_ theme, with an ideal contrast so that each letter of code remains readable to your eyes:
 
 ![Monowave preview](https://i.imgur.com/2NZbnzl.png)
 
