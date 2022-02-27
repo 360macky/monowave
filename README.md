@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src=".github/logo_128x128.png"
+    src="https://github.com/360macky/monowave/blob/main/.github/logo_128x128.png?raw=true"
     align="center"
     width="100"
     alt="Monowave"
