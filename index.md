@@ -1,37 +1,37 @@
-## Monowave
+<p align="center">
+  <img
+    src="https://i.imgur.com/OcqGVy0.png"
+    align="center"
+    width="100"
+    alt="Monowave"
+    title="Monowave"
+  />
+  <h1 align="center">Monowave</h1>
+</p>
 
-You can use the [editor on GitHub](https://github.com/360macky/monowave/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+    🌊 Code comfortably at noon 🌅
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+⛱ Monowave is a theme made for people who work in really high light environments. It contains a wonderful variation of the _Monokai_ theme, with an ideal contrast so that each letter of code remains readable to your eyes:
 
-### Markdown
+![Monowave preview](https://i.imgur.com/2NZbnzl.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🖐 Contributions
 
-```markdown
-Syntax highlighted code block
+Do you would like to contribute? Do you want to be the author of a new feature?
+Awesome! please fork the [repository](https://github.com/360macky/monowave) and make changes as you like. [Pull requests](https://github.com/360macky/monowave/pulls) are warmly welcome.
 
-# Header 1
-## Header 2
-### Header 3
+## 🐛 Issues
 
-- Bulleted
-- List
+Did you find any bugs in the theme? Any suggestions you want to give?
 
-1. Numbered
-2. List
+Please open a new issue [here](https://github.com/360macky/monowave/issues)
 
-**Bold** and _Italic_ and `Code` text
+## ✒ Author
 
-[Link](url) and ![Image](src)
-```
+Developed by [Marcelo Arias](https://github.com/360macky).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 📃 License
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/360macky/monowave/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Distributed under the MIT License.
