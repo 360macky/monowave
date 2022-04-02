@@ -29,6 +29,20 @@
 
 ![Monowave preview](https://i.imgur.com/2NZbnzl.png)
 
+## 🎨 Development
+For the development of this palette Yeoman Code was used.
+
+Along with the following color palette:
+<p align="center">
+  <img
+    src="https://i.imgur.com/08bp0Vt.jpeg"
+    align="center"
+    width="350"
+    alt="Install Monowave theme"
+    title="Install Monowave theme"
+  />
+</p>
+
 ## 🖐 Contributions
 
 Do you would like to contribute? Do you want to be the author of a new feature?
