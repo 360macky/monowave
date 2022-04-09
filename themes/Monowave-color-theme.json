@@ -985,7 +985,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#000000"
       }
     },
     {
@@ -999,21 +999,21 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#000000"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#cfa951"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#000000"
       }
     },
     {
@@ -1649,7 +1649,7 @@
       "name": "language operators like '+', '-' etc",
       "scope": ["constant.other.color.rgb-value.xi"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#000000"
       }
     },
     {
@@ -1834,6 +1834,7 @@
     "editor.hoverHighlightBackground": "#add6ff26",
     "editor.wordHighlightStrongBackground": "#b7d9f040",
     "editor.wordHighlightBackground": "#57575740",
+    "editor.wordHighlightBorder": "#57575740",
     "editor.lineHighlightBackground": "#ffffff0A",
     "editor.lineHighlightBorder": "#eeeeee",
     "editorLineNumber.activeForeground": "#0b216f",
@@ -1896,7 +1897,7 @@
     "breadcrumb.foreground": "#616161cc",
     "breadcrumb.focusForeground": "#4e4e4e",
     "editorGroupHeader.tabsBackground": "#f7f7f7",
-    "editorGroupHeader.tabsBorder": "#118ab2",
+    "editorGroupHeader.tabsBorder": "#f7f7f7",
     "tab.activeForeground": "#333333",
     "tab.border": "#f3f3f3",
     "tab.activeBackground": "#ffffff",
@@ -1904,9 +1905,9 @@
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#ececec",
     "tab.inactiveForeground": "#333333b3",
-    "scrollbarSlider.background": "#06d6a0",
-    "scrollbarSlider.hoverBackground": "#06d6a0b3",
-    "scrollbarSlider.activeBackground": "#06d6a099",
+    "scrollbarSlider.background": "#06d6a0f5",
+    "scrollbarSlider.hoverBackground": "#06d6a0fb",
+    "scrollbarSlider.activeBackground": "#06d6a0",
     "progressBar.background": "#ffd166",
     "widget.shadow": "#00000029",
     "editorWidget.foreground": "#616161",
@@ -1948,7 +1949,7 @@
     "editorSuggestWidget.background": "#f3f3f3",
     "editorSuggestWidget.border": "#c8c8c8",
     "editorSuggestWidget.foreground": "#000000",
-    "editorSuggestWidget.highlightForeground": "#0066bf",
+    "editorSuggestWidget.highlightForeground": "#118ab2",
     "editorSuggestWidget.selectedBackground": "#d6ebff",
     "editorHoverWidget.foreground": "#616161",
     "editorHoverWidget.background": "#f3f3f3",
